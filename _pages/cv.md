@@ -5,11 +5,13 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Magnus_Carson_2025.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mac624@cornell.edu](mailto:mac624@cornell.edu) | | | **Phone:** +607 774 7304
 
+
+{% comment %}
 ---
 
 #### Objective
@@ -72,3 +74,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 Available upon request.
 
 ---
+{% endcomment %}
