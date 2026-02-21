@@ -1,18 +1,9 @@
 ---
+layout: project
+title: SLF ODP Client Pitch
+description: Pitch to clients about SLF sorting device
+image: /assets/images/rotor_assy.png
 ---
-layout: default
----
-
-<h1>{{ MAE 2250 ODP Part 1 }}</h1>
-
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
-
-{{ content }}
-
-<a href={{ "/projects/" | relative_url }} class="back-arrow">
-    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
-</a>
-
 
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
@@ -53,4 +44,3 @@ With the resources available to us, we can create simple prototypes to validate 
 1. **What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?** *Decision affected:* This will determine potential attachment and help visualize the overall final design.  
 2. **What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?** *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes.   
 3. **How does the grape inspection process work?** *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. 
-
