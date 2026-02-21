@@ -1,4 +1,19 @@
 ---
+---
+layout: default
+---
+
+<h1>{{ MAE 2250 ODP Part 1 }}</h1>
+
+<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+
+{{ content }}
+
+<a href={{ "/projects/" | relative_url }} class="back-arrow">
+    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
+</a>
+
+
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
