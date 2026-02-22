@@ -2,9 +2,7 @@
 layout: project
 title: SLF ODP Client Pitch
 description: Pitch to clients about SLF sorting device
-image: /assets/images/rotor_assy.png
 ---
-
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
