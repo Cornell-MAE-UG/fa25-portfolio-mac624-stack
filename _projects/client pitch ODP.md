@@ -1,8 +1,9 @@
 ---
 layout: project
 title: SLF ODP Client Pitch
-description: Pitch to clients about SLF sorting device
+description: Pitch to clients about Spotted Lanternfly sorting device
 ---
+
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
@@ -10,7 +11,8 @@ description: Pitch to clients about SLF sorting device
 
 When grapes are harvested by mechanised harvesters, spotted lanternflies are collected along with them. Up to 80% of the SLF on a vine can be removed from the vine and end up in the final product. SLF can move to grape vines immediately before harvesting, making it hard to prevent their accidental harvesting. 
 
-## **Impact:** Even a couple of SLF in a shipment can cause tons of grapes to be thrown out, so it is critical that they are removed at every stage of the harvest process in order to preserve the profits of the farm.
+## **Impact:** 
+Even a couple of SLF in a shipment can cause tons of grapes to be thrown out, so it is critical that they are removed at every stage of the harvest process in order to preserve the profits of the farm.
 
 ## 
 
@@ -37,7 +39,8 @@ With the resources available to us, we can create simple prototypes to validate 
 * \< Harvesting Practices\> — Practices may differ depending on if they handpick the grapes or using tractors, the difference means incorporating our design to be modular  
 * \<Risk 3\> — why it matters, and how you’ll test it.
 
-## **Questions for the client:** We have limited knowledge of the state of SLF and grapes post-harvesting, so any information (pictures, videos, descriptions) would be a huge help. 
+## **Questions for the client:** 
+We have limited knowledge of the state of SLF and grapes post-harvesting, so any information (pictures, videos, descriptions) would be a huge help. 
 
 1. **What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?** *Decision affected:* This will determine potential attachment and help visualize the overall final design.  
 2. **What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?** *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes.   
