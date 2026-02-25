@@ -5,6 +5,7 @@ description: Thermodynamics 2210 Project
 technologies: [SOLIDWORKS 2025]
 image: /assets/images/rotor_assy.png
 ---
+*Note: this is required to be on my portfolio by my class (MAE 2210). If you are a recruiter please look at my more interesting work, my Machining and Tech Report.
 
 For thermodynamics, we were asked to do a thermal analysis of a system of our choice. I chose to analyze a brake rotor. Specifically, I want to analyze one of the three brake rotors for the off road racing car that my project team is building. I am basing my calculations off of both CAD models and real-world testing that we have done as a team. 
 

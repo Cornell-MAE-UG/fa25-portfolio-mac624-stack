@@ -2,7 +2,7 @@
 layout: project
 title: SLF ODP Client Pitch
 description: Pitch to clients about Spotted Lanternfly sorting device
-image: /assets/images/SLF.png
+image: /assets/images/SLF.png.jpg
 ---
 *Note: this is required to be on my portfolio by my class (MAE 2250). If you are a recruiter please look at my more interesting work, my Machining and Tech Report.
 

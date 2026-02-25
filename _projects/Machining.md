@@ -9,11 +9,15 @@ This is a collection of the machining work I have done. Most of it is for my own
 
 The pedals were a very simple 2-operation part with a fixture plate. My design this year was meant to improve machinability, which was successful. The total machine time for each pedal was only around 40 minutes. 
 
+Finished Pedals:
 ![Finished pedals]({{ "/assets/images/tp_bp.JPG" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
 
 
 
 
-The master cylinders were machined in many steps becasue they were sent to be anodised 
+The master cylinders were machined in many steps becasue they were sent to be anodized halfway through their machining. 
+Part way through machining (before final op):
 ![Master cylinders before final operation]({{ "/assets/images/masters_op1.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+
+Bottom of a finished MC:
 ![Master cylinder finished]({{ "/assets/images/master_bot.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
