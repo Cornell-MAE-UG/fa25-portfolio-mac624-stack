@@ -9,8 +9,12 @@ image: /assets/images/SLF.png.jpg
 
 
 
-
+<details>
+<summary>Tips for collapsed sections</summary>
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
+
+</details>
+
 
 ## **Problem statement**
 
