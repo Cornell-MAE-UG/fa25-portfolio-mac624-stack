@@ -9,10 +9,16 @@ image: /assets/images/SLF.png.jpg
 
 <details>
 
-  <summary> <b>Client Pitch</b> </summary>
 
-  ## **Client(s):** 
+  <summary> <b>Client Pitch</b> </summary>
+  
+
+  ## **Client(s):** magnus 
+
+
   Cornell CALS Extension / E\&J Gallo Winery / National Grape
+
+
 </details>
 
 <details>
@@ -24,13 +30,7 @@ image: /assets/images/SLF.png.jpg
   2. Bar
      * Baz
      * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+        
 </details>
 
 
