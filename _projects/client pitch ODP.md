@@ -5,16 +5,11 @@ description: Pitch to clients about Spotted Lanternfly sorting device
 image: /assets/images/SLF.png.jpg
 ---
 *Note: this is required to be on my portfolio by my class (MAE 2250). If you are a recruiter please look at my more relevant, my Machining and Tech Report.
-
-
-
+  
 
 <details>
-<summary>Tips for collapsed sections</summary>
+<summary> **Client Pitch** </summary>
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
-
-</details>
-
 
 ## **Problem statement**
 
@@ -52,3 +47,5 @@ We have limited knowledge of the state of SLF and grapes post-harvesting, so any
 1. **What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?** *Decision affected:* This will determine potential attachment and help visualize the overall final design.  
 2. **What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?** *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes.   
 3. **How does the grape inspection process work?** *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. 
+
+</details>
