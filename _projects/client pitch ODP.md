@@ -8,12 +8,14 @@ image: /assets/images/SLF.png.jpg
   
 
 <details>
-<summary> ** Client Pitch ** </summary>
-## **Client(s):** 
-Cornell CALS Extension / E\&J Gallo Winery / National Grape
-
+<summary> **Client Pitch** </summary>
+    ## **Client(s):** 
+    Cornell CALS Extension / E\&J Gallo Winery / National Grape
 </details>
 
+<details>
+  <summary>Click me</summary>
+  
 ## **Problem statement**
 
 When grapes are harvested by mechanised harvesters, spotted lanternflies are collected along with them. Up to 80% of the SLF on a vine can be removed from the vine and end up in the final product. SLF can move to grape vines immediately before harvesting, making it hard to prevent their accidental harvesting. 
@@ -40,9 +42,8 @@ With the resources available to us, we can create simple prototypes to validate 
 
 ## Key risks & Unknowns:
 
-* <Yield Damage> — SLF’s can decimate crops, so while our approach may be significant in preventing contamination of end products, reduced yield presents a more systemic risk.  
+* \<Yield Damage\> — SLF’s can decimate crops, so while our approach may be significant in preventing contamination of end products, reduced yield presents a more systemic risk.  
 * \< Harvesting Practices\> — Practices may differ depending on if they handpick the grapes or using tractors, the difference means incorporating our design to be modular  
-* \<Risk 3\> — why it matters, and how you’ll test it.
 
 ## **Questions for the client:** 
 We have limited knowledge of the state of SLF and grapes post-harvesting, so any information (pictures, videos, descriptions) would be a huge help. 
@@ -50,5 +51,11 @@ We have limited knowledge of the state of SLF and grapes post-harvesting, so any
 1. **What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?** *Decision affected:* This will determine potential attachment and help visualize the overall final design.  
 2. **What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?** *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes.   
 3. **How does the grape inspection process work?** *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. 
+
+
+  
+</details>
+
+
 
 
