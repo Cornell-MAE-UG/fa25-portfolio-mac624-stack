@@ -1,10 +1,14 @@
 ---
 layout: project
-title: SLF ODP Client Pitch
+title: MAE 2250 Open Design Project
 description: Pitch to clients about Spotted Lanternfly sorting device
 image: /assets/images/SLF.png.jpg
 ---
-*Note: this is required to be on my portfolio by my class (MAE 2250). If you are a recruiter please look at my more interesting work, my Machining and Tech Report.
+*Note: this is required to be on my portfolio by my class (MAE 2250). If you are a recruiter please look at my more relevant, my Machining and Tech Report.
+
+
+
+
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
 
@@ -14,8 +18,6 @@ When grapes are harvested by mechanised harvesters, spotted lanternflies are col
 
 ## **Impact:** 
 Even a couple of SLF in a shipment can cause tons of grapes to be thrown out, so it is critical that they are removed at every stage of the harvest process in order to preserve the profits of the farm.
-
-## 
 
 ### **Concept A: Airflow Distinguisher** 
 
