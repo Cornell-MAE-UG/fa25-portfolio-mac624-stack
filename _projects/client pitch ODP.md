@@ -8,16 +8,16 @@ image: /assets/images/SLF.png.jpg
   
 
 <details>
-<summary> **Client Pitch** </summary>
-## **Client(s):** 
-Cornell CALS Extension / E\&J Gallo Winery / National Grape
+  <summary> <b>Client Pitch<b> </summary>
 
+  ## **Client(s):** 
+  Cornell CALS Extension / E\&J Gallo Winery / National Grape
 </details>
 
 <details>
   <summary>Click me</summary>
   
-### Heading
+  ### Heading
   1. Foo
   2. Bar
      * Baz
