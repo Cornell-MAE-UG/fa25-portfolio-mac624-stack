@@ -13,10 +13,10 @@ image: /assets/images/SLF.png.jpg
   <summary> <b>Client Pitch</b> </summary>
   
 
-  ## **Client(s):** magnus 
+  ## **Client(s):** 
 
 
-  Cornell CALS Extension / E\&J Gallo Winery / National Grape
+  <b>Cornell CALS Extension</b> / E\&J Gallo Winery / National Grape
 
 
 </details>
@@ -26,10 +26,6 @@ image: /assets/images/SLF.png.jpg
   <summary>Click me</summary>
   
   ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
         
 </details>
 
