@@ -9,15 +9,32 @@ image: /assets/images/SLF.png.jpg
 
 <details>
 <summary> **Client Pitch** </summary>
-    ## **Client(s):** 
-    Cornell CALS Extension / E\&J Gallo Winery / National Grape
+## **Client(s):** 
+Cornell CALS Extension / E\&J Gallo Winery / National Grape
+
 </details>
 
 <details>
   <summary>Click me</summary>
   
-## **Problem statement**
+### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
 
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
+
+
+## **Problem statement**
 When grapes are harvested by mechanised harvesters, spotted lanternflies are collected along with them. Up to 80% of the SLF on a vine can be removed from the vine and end up in the final product. SLF can move to grape vines immediately before harvesting, making it hard to prevent their accidental harvesting. 
 
 ## Impact: 
@@ -51,11 +68,5 @@ We have limited knowledge of the state of SLF and grapes post-harvesting, so any
 1. **What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?** *Decision affected:* This will determine potential attachment and help visualize the overall final design.  
 2. **What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?** *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes.   
 3. **How does the grape inspection process work?** *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. 
-
-
-  
-</details>
-
-
 
 
