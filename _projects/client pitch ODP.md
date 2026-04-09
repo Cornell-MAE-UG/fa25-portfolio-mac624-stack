@@ -9,7 +9,10 @@ image: /assets/images/SLF.png.jpg
 
 <details>
 <summary> ** Client Pitch ** </summary>
-**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape
+## **Client(s):** 
+Cornell CALS Extension / E\&J Gallo Winery / National Grape
+
+</details>
 
 ## **Problem statement**
 
@@ -49,4 +52,3 @@ We have limited knowledge of the state of SLF and grapes post-harvesting, so any
 3. **How does the grape inspection process work?** *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. 
 
 
-</details>
