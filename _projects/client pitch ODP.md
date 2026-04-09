@@ -8,7 +8,7 @@ image: /assets/images/SLF.png.jpg
   
 
 <details>
-  <summary> <b>Client Pitch<b> </summary>
+  <summary> <b>Client Pitch</b> </summary>
 
   ## **Client(s):** 
   Cornell CALS Extension / E\&J Gallo Winery / National Grape
