@@ -8,12 +8,10 @@ image: /assets/images/SLF.png.jpg
   
 
 <details>
-
-
   <summary> <b>Client Pitch</b> </summary>
   
-
-  <h2>Client(s): </h2>
+  <h1>Client Pitch</h1>
+  <h4>Client(s): </h4>
   <b>Cornell CALS Extension, E&J Gallo Winery, National Grape </b>
 
 <h2> Problem statement </h2>
@@ -51,15 +49,15 @@ With the resources available to us, we can create simple prototypes to validate 
 <i> We have limited knowledge of the state of SLF and grapes post-harvesting, so any information (pictures, videos, descriptions) would be a huge help. </i> 
 
 <ol>
-<li><b> What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?<b> *Decision affected:* This will determine potential attachment and help visualize the overall final design. </li> 
+<li><b> What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?</b> *Decision affected:* This will determine potential attachment and help visualize the overall final design. </li> 
 <li> <b>What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?</b> *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes. </li>
 <li> <b>How does the grape inspection process work?</b> *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. </li>
+
 </ol>
 
 </details>
 
+<details>
+  <summary> <b>Client Pitch</b> </summary>
 
-
-
-
-
+</details>
