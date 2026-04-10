@@ -14,39 +14,24 @@ image: /assets/images/SLF.png.jpg
   
 
   <h2>**Client(s):** </h2>
-
-
   <b>Cornell CALS Extension</b> / E\&J Gallo Winery / National Grape
 
 
-</details>
-
-<details>
-
-  <summary>Click me</summary>
-  
-  ### Heading
-        
-</details>
-
-
-
-
-## **Problem statement**
+<h2> > Problem statement </h2>
 When grapes are harvested by mechanised harvesters, spotted lanternflies are collected along with them. Up to 80% of the SLF on a vine can be removed from the vine and end up in the final product. SLF can move to grape vines immediately before harvesting, making it hard to prevent their accidental harvesting. 
 
-## Impact: 
+<h2> Impact: <h2>
 Even a couple of SLF in a shipment can cause tons of grapes to be thrown out, so it is critical that they are removed at every stage of the harvest process in order to preserve the profits of the farm.
 
-### **Concept A: Airflow Distinguisher** 
+<h3> >Concept A: Airflow Distinguisher </h3>
 
 An adjustable fan will be attached to the harvesting system, applying a controlled amount of airflow to the yield. This artificial airflow separates the SLF from the grapes, blowing the significantly lighter SLF away from the valuable grapes and into a separate container.   
-**How it would be used:** Immediately after harvesting and before the grapes make it to a final container, a custom fan will separate the lighter SLF from the grape collection
+<b>How it would be used:</b> Immediately after harvesting and before the grapes make it to a final container, a custom fan will separate the lighter SLF from the grape collection
 
-### **Concept B: Grate Accumulator**
+<h3> **Concept B: Grate Accumulator** </h3>
 
 A specialized solution will be sprayed upon the harvestation of grapes and SLF, loosening their connection and separating them from one another. The separated grapes would fall through a custom built grid, accumulating in a new chamber and blocking the larger SLF from following.   
-**How it would be used:** 
+<b> How it would be used: </b>
 
 1. After harvest, they will be sprayed with a certain solution to loosen their connection.  
 2. Together they would be rolled over/displaced to our custom grid and filtration grate, where the smaller grapes would fall through the grid (similar to a honeycomb design)
@@ -66,5 +51,14 @@ We have limited knowledge of the state of SLF and grapes post-harvesting, so any
 1. **What does the current harvesting vehicle look like, and where would there be space to safely implement a post harvesting separation device?** *Decision affected:* This will determine potential attachment and help visualize the overall final design.  
 2. **What are the grapes and SLF like immediately after they are harvested/before they end up in the shipping bin?** *Decision affected:* This will help us simulate the grape-lanternfly mixture in order to test our prototypes.   
 3. **How does the grape inspection process work?** *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. 
+
+
+
+
+</details>
+
+
+
+
 
 
