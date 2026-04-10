@@ -61,3 +61,9 @@ With the resources available to us, we can create simple prototypes to validate 
   <summary> <b>Client Pitch</b> </summary>
 
 </details>
+
+
+
+<iframe src="\assets\mac624_Masters_Pedals_FA25.pdf" width="100%" height="600px">
+  <p>This browser does not support inline PDFs. Please <a href="\assets\mac624_Masters_Pedals_FA25.pdf">download the PDF</a> to view it.</p>
+</iframe>
