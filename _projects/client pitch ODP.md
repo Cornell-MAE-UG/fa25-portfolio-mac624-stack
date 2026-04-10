@@ -62,7 +62,10 @@ image: /assets/images/SLF.png.jpg
 # Design Documentation:
 
 Full Photo:   
-![][image1]![][image2]
+![]({{ "/assets/images/image1.png" | relative_url }})![]({{ "/assets/images/image2.png" | relative_url }})
+
+({{ "/assets/images/image1.png" | relative_url }})
+
 
 **Intent and functionality:**  
 Main Components:  
