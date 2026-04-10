@@ -6,7 +6,10 @@ image: /assets/images/SLF.png.jpg
 ---
 *Note: this is required to be on my portfolio by my class (MAE 2250). If you are a recruiter please look at my more relevant pages, my Machining and Tech Report.
   
+[Client Pitch](#Client_Pitch)
+[First Prototype](#Prototype_1)
 
+<a name="Client_Pitch"></a>
 <details>
   <summary> <b>Client Pitch</b> </summary>
   
@@ -57,13 +60,15 @@ image: /assets/images/SLF.png.jpg
 </details>
 
 
+
+<a name="Prototype_1"></a>
 # YellowJackets ODP5: Functional Prototype I
 
 ## Design Documentation:
 
 Full Photo:   
-![]({{ "/assets/images/image1.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
- ![]({{ "/assets/images/image2.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+![]({{ "/assets/images/image4.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+ ![]({{ "/assets/images/image15.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
 
 
 
