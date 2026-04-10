@@ -56,8 +56,6 @@ image: /assets/images/SLF.png.jpg
   </ol>
 </details>
 
-<details>
-  <summary> <b>First Prototype</b> </summary>
 
 # YellowJackets ODP5: Functional Prototype I
 
@@ -180,5 +178,3 @@ Our main motive with our design is being able to create a structure that allows 
 **Usability/Application (medium priority):** The next criterion will assess the reality of this design. To measure success, we will have a selection of students try and use the device with limited prior knowledge. Given a selection of 10 students, having 8 students undergo SLF separation will suffice as success criteria, displaying the effect this device has. Additionally, we will test how the device reacts when in motion, to simulate real world application. To measure this, the device will be held by a student or placed on a moving cart, while the harvest is loaded into the tray as the device moves forward. As the whole device moves, we will analyze similarly to the stationary tests, looking for dislocations or malfunctioning components. To quantify success, we need to achieve 0 broken components and 100% SLF separation. 
 
 **Exhibit Demonstration:** At the exhibit, we will be able to use our SLF models and grapes to simulate what the separation process will look like to display the efficiency of our design. Usability can also be tested at the exhibition, having guests try and use it to separate the SLF themselves to see what the effect is.
-
-</details>
