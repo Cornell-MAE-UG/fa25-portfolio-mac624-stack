@@ -59,12 +59,14 @@ image: /assets/images/SLF.png.jpg
 
 # YellowJackets ODP5: Functional Prototype I
 
-# Design Documentation:
+## Design Documentation:
 
 Full Photo:   
-![]({{ "/assets/images/image1.png" | relative_url }})![]({{ "/assets/images/image2.png" | relative_url }})
+![]({{ "/assets/images/image1.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+ ![]({{ "/assets/images/image2.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
 
-({{ "/assets/images/image1.png" | relative_url }})
+
+
 
 
 **Intent and functionality:**  
