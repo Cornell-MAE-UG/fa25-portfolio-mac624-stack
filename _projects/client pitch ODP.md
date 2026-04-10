@@ -62,6 +62,6 @@ image: /assets/images/SLF.png.jpg
 
 
 </details>
-magnus cars
+magnus car
 
-<embed src="./assets/Magnus_Carson_2026.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="Magnus_Carson_2026.pdf" type="application/pdf" width="100%" height="600px" />
