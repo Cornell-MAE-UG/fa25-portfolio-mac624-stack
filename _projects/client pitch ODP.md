@@ -62,7 +62,7 @@ image: /assets/images/SLF.png.jpg
 
 
 </details>
-magnus car
+magnus cars
 
 
 
