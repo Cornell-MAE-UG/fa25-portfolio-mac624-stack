@@ -10,8 +10,6 @@ image: /assets/images/SLF.png.jpg
 [First Prototype](#Prototype_1)
 
 <a name="Client_Pitch"></a>
-<details>
-  <summary> <b>Client Pitch</b> </summary>
   
   <h1>Client Pitch</h1>
   <h4>Client(s): </h4>
@@ -57,7 +55,6 @@ image: /assets/images/SLF.png.jpg
   <li> <b>How does the grape inspection process work?</b> *Decision affected:* This will affect how we evaluate the effectiveness of our prototypes. </li>
 
   </ol>
-</details>
 
 
 
@@ -77,9 +74,10 @@ Full Photo:
 **Intent and functionality:**  
 Main Components:  
 The fan is ordered from McMaster (1939K96). It is powered by one of the supplied 12V power supplies and mounted to a custom 3d printed fan mount using M4 bolts and nuts , also from McMaster (91290A187, 90591A255). This allows for connection to the main structure and has holes designed for attaching a fan nozzle. Shown below is one side of the fan mount, which is also utilized for the other side. The fan’s hole pattern matches such that it can be directly mounted to each of the two fan mounts.  
-![][image3]  
+![]({{ "/assets/images/image13.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
 **Nozzle** \- Designed in CAD then fabricated out of wood. Mounts to fan mount and directs airflow towards a more focused cross-section. Wood was marked to match the specified CAD dimensions, cut, and belt sanded to improve precision from rough-cuts.  
- ![][image4]![][image5]  
+ ![]({{ "/assets/images/image8.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+ ![]({{ "/assets/images/image14.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}  
 **Loading Tray** \- Constructed out of balsa wood. Serves as a container for placing stand-in materials for SLF and grapes for the purposes of testing. It has a pivoting gate to restrict movement before a test which can be rotated to the open position when the test is started.
 
 **Main Structure** \- Used balsa wood for the main structure. Marked up the wood to show where the holes will line up to attach the fan mount and loading tray. Using a handheld drill, we made 24 precise holes to allow for maximum configurability for the angle of the fan mount
@@ -136,7 +134,11 @@ Fan angle
   - The fan was able to be placed in many different locations and angles. The pattern of holes that we built worked well and they were all aligned well enough.  
   - Here are a bunch of pictures of different fan locations (different heights and angles).  
 
-![][image6]![][image7]![][image8]![][image9]![][image10]
+![]({{ "/assets/images/image2.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+![]({{ "/assets/images/image3.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+![]({{ "/assets/images/image9.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+![]({{ "/assets/images/image11.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
+![]({{ "/assets/images/image12.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}
 
 Main test:   
 First we ran a control where the fan was not on. The grapes and SLF all landed together between 2 and 6 inches from the base. Here is the rest of our data, parsed from our videos: 
@@ -153,10 +155,10 @@ First we ran a control where the fan was not on. The grapes and SLF all landed t
 | High, flat angle | N | 2, 5 | 8, 25 | Y (3in) |
 
 Screenshots showing process:  
-![][image11]  
+![]({{ "/assets/images/image7.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}  
 SLF and grapes being released. The first grapes have landed. They tend to roll after landing, so it was important to take the video to ensure accurate data. 
 
-![][image12]  
+![]({{ "/assets/images/image15.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"} 
 SLF and grapes after landing. The effects of the grapes rolling is quite obvious, some of them travel up to 8 inches after landing. 
 
 Structural integrity:
@@ -171,7 +173,7 @@ The way that we are attaching the fan is successful. The bracket and side walls 
 
 **Main Test:**   
 First, the nozzle does not seem worth it based on our testing. We believe that the major issue with it was the fact that air escaped on the sides of the nozzle (picture of gaps below). We would like to try a different nozzle that is 3D printed and fits onto the fan better than our current design.   
-![][image13]\<- gap between fan and nozzle where air escaped  
+![]({{ "/assets/images/image1.jpg" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"}\<- gap between fan and nozzle where air escaped  
 The conclusion of the fan position was that the best position was high up (close to the chute), with an angle upwards. This allows us to really narrow down the position of the fan for our final prototype. 
 
 **Structural test:**  
