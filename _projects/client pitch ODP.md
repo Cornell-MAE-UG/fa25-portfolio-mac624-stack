@@ -4,7 +4,7 @@ title: MAE 2250 Open Design Project
 description: Pitch to clients about Spotted Lanternfly sorting device
 image: /assets/images/SLF.png.jpg
 ---
-*Note: this is required to be on my portfolio by my class (MAE 2250). If you are a recruiter please look at my more relevant pages, my Machining and Tech Report.
+
   
 [Client Pitch](#Client_Pitch)
 [First Prototype](#Prototype_1)
