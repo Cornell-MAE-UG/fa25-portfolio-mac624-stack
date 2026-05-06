@@ -8,6 +8,8 @@ image: /assets/images/SLF.png.jpg
   
 [Client Pitch](#Client_Pitch)
 [First Prototype](#Prototype_1)
+[Client Report](#Client_Report)
+
 
 <a name="Client_Pitch"></a>
   
@@ -190,3 +192,91 @@ Our main motive with our design is being able to create a structure that allows 
 **Usability/Application (medium priority):** The next criterion will assess the reality of this design. To measure success, we will have a selection of students try and use the device with limited prior knowledge. Given a selection of 10 students, having 8 students undergo SLF separation will suffice as success criteria, displaying the effect this device has. Additionally, we will test how the device reacts when in motion, to simulate real world application. To measure this, the device will be held by a student or placed on a moving cart, while the harvest is loaded into the tray as the device moves forward. As the whole device moves, we will analyze similarly to the stationary tests, looking for dislocations or malfunctioning components. To quantify success, we need to achieve 0 broken components and 100% SLF separation. 
 
 **Exhibit Demonstration:** At the exhibit, we will be able to use our SLF models and grapes to simulate what the separation process will look like to display the efficiency of our design. Usability can also be tested at the exhibition, having guests try and use it to separate the SLF themselves to see what the effect is.
+
+
+
+<a name="Client_Report"></a>
+
+
+**Yellowjackets: The SLFilter**  
+Aaron Grgurovic, Kevin Pezzulich, Magnus Carson, Jawad Mohamed, Johanna Stuard  
+
+**Context and Problem Statement:** 
+
+When grapes are harvested by mechanised harvesters, spotted lanternflies are collected along with them. Up to 80% of Spotted Lantern Flies (SLF) on a vine can be removed from the vine and end up in the final product. SLF can move to grape vines immediately before harvesting, increasing the difficulty to prevent their harvesting. Even a couple of SLF in a shipment can cause tons of grapes to be thrown out, so they must be removed at every stage of the harvesting process to preserve the profits of the farm. 
+
+In the post-harvest, there is an opportunity to separate the SLF from the grape solution before the product is dumped into the bin. We shifted our focus to the post-harvest considering the inevitably that SLF's will stay with the product post-harvest. Our goal is to construct a prototype that can be used as a failsafe against the SLFs that end up in the product post-harvest, while also eliminating possibilities of contaminating the soil or damaging the grape vine through direct contact. 
+
+During our research, we identified multiple constraints that our prototype would be subject to. The prototype would need to fit into the available space inside a harvester underneath the end of the conveyor belt. The government rejects grape mixtures where there is more than 1 gram of SLF per 1000 grams of grape, so the design should be precise enough to reach this separation threshold. The prototype would be required to be powerful enough to effectively separate the SLFs and grapes into two separate bins. 
+
+**Final Prototype and Application:** 
+
+Throughout our initial idea development, design iteration, and final prototype stages, we have developed a structural attachment to assist grape harvesting, which uses controlled airflow to separate Spotted Lanternflies (SLF) from harvested grapes. The structure consists of a DC powered fan integrated into supports which are adjustable in height and angle; this allows farmers to precisely tune the airflow based on the conditions of the crops. 
+
+During grape harvesting, as grapes are processed and discharged from the conveyor belt, they will fall onto the loading tray, which is a part of our structure and is positioned above the fan. After the grapes/SLF fall onto the loading tray, the fan generates a stream of air. Due to SLF being significantly lighter than the grapes, they are blown into a separate collection area, while the heavier grapes fall into their own crates as well. 
+
+Overall, our design provides a simple ‘add-on’ and adjustable solution that can be incorporated into the existing conveyor system. Allowing for an improvement in grape processing quality. 
+
+**Conclusion and Recommendation:**
+
+As far as next steps, while we have worked to demonstrate functionality using simulated SLF and grapes (weighted styrofoam and clay), this simply proved the concept’s small-scale feasibility. Moving forward, further testing would be necessary on a scale more on par with the expected grape and SLF quantities harvested by mechanical harvesters while also being in constant motion. Additionally, another redesign would be necessary in order to adapt this design to existing equipment’s mounting points. While this wouldn’t represent a significant difference in core design as far as fan angle, it would mean likely mounting the fan from above rather than below. This would require inverting the design such that it could be attached to a harvester at the end of the conveyor belt which drops the grape slurry into the bin.
+
+This design would also greatly benefit from field testing using actual grape slush/SLF mixtures, as while we have done our best to simulate grapes and SLF falling through the system and being separated, utilizing the actual mixture itself would give the most helpful insight into the design’s feasibility.
+
+**Testing and Results:** 
+
+We are primarily focused on testing 2 main categories within our design: performance and efficiency. The main tests we are planning on conducting is if the fan can successfully separate the SLF from the grape slush, and determining the consistency of this separation. The project depends on the success of producing an SLF free product, making this our high priority test. On average, the SLF must land a minimum of 3.25in farther than the grapes, demonstrating a 100% separation rate. This data includes both ‘dry’ and ‘wet’ SLF, accounting for SLF mass difference from being soaked in rain or grape slush. 
+
+Due to our design being a last resort failsafe, we need to ensure a highly reliable device, as examined by our cycling tests to both determine the separation consistency and design durability. We averaged consistent data across 3 tests for each setting, accounting for outliers. Through this, we witnessed a maximum separation of 7in, and a minimum at 1in, however, the 1in had been at the low fan position. The average for the higher position (indicating the fan being closer to the loading tray) was far greater than low, confidently allowing us to finalize a high fan position design.
+
+Additionally, our initial design consisted of a nozzle for the fan, intended to allow for a more controlled airflow. We ran a fan efficiency test, consisting of precisely placed string on the interior of the custom nozzle design. During our first prototype, we discovered a large amount of pressure escaping through the edges and back end as our nozzle was not snug against the mounting brackets. This realization led to us redesigning the nozzle in order to mount flush to the fan and prevent any lost pressure. However, despite redesign efforts, during further testing we determined the nozzle to be less consistent than an open fan and chose to move past this idea. 
+
+**Prototype and Testing Details:**
+
+Fan angle stability:
+
+- Determined if the fan angled up, down, or straight separates the SLF (styrofoam) from the grapes (clay)  
+- We changed the angle of the fan, then turned the fan on for one minute to see if the fan remained in the same position.
+
+Main test: grape & SLF separation with fan:
+
+- We put a mix of simulated grapes and lanternflies in the chute.   
+- The chute was opened to allow the grapes and SLF to fall freely in front of the fan.  
+- Taking a video and with a meter stick on the ground in front of the device, we recorded the exact distances that the grapes fall and the SLF fall.   
+- This test was repeated with different fan positions and angles, each time testing both with and without the nozzle that we fabricated. 
+
+Structural integrity:
+
+- Holding the base, we shook the design with all parts attached, with a frequency of about 40hz and an amplitude of 4 inches.  
+- This test was repeated shaking in multiple horizontal directions.   
+- The second part of this test was lifting the structure off of the table by holding the top of the vertical panels. We lifted it 10 times. 
+
+| Fan pos: | Nozzle (Y/N) | Grapes min & max distance \[in\] | SLF min & max distance \[in\] | Separation? |
+| :---- | :---- | :---- | :---- | :---- |
+| High, 25 deg up | Y | 2, 4 | 4, 10 | N  |
+| High, 25 deg up | N | 2, 5 | 12, 19 | **Y (7in)** |
+| Low, 25 deg up | Y | 2, 4 | 3, 10 | N  |
+| Low, 25 deg up | N | 2, 4 | 5, 15 | Y (1in) |
+| Low, flat angle | Y | 2, 4 | 3, 5 | N |
+| Low, flat angle | N | 2, 4 | 6, 20 | Y (2in) |
+| High, flat angle | Y | 2, 5 | 6, 15 | Y (1in) |
+| High, flat angle | N | 2, 5 | 8, 25 | Y (3in) |
+
+![]({{ "/assets/images/image17.png" | relative_url }}){: style="display: block; width: 600px; height: auto; margin: 20px auto;"} 
+
+**References and Bill of Materials**
+
+| Part | Purpose | Quantity | Price | Manufacturer  |
+| :---- | :---- | :---- | :---- | :---- |
+| ¼” Acrylic Plate  | Cut to act as side panels, base, and loading tray | 1 | $52.81 | McMaster-Carr [https://www.mcmaster.com/8505K757/](https://www.mcmaster.com/8505K757/)  |
+| M4x55mm Bolt | Securely attach the nozzle to the fan and fan mount. | 4 | $11.25/pack | McMaster-Carr [https://www.mcmaster.com/91290A187/](https://www.mcmaster.com/91290A187/)  |
+| M4x25mm Bolt | Securely attach the loading tray and the fan mount to the side panels | 8 | Free from TDS | McMaster-Carr |
+| M4 Nut | Tighten the connection with bolt and acrylic | 12 | $3.39/pack | McMaster-Carr [https://www.mcmaster.com/90591A255/](https://www.mcmaster.com/90591A255/)  |
+| Acrylic Plastic Cement | Hold the structure together | 1 | $7.52 | McMaster-Carr [https://www.mcmaster.com/7352A101/](https://www.mcmaster.com/7352A101/)  |
+| Square Blower Fan | Separate SLF from grapes | 1 | $75.00 | McMaster-Carr [https://www.mcmaster.com/1939K96/](https://www.mcmaster.com/1939K96/)  |
+| Plastic Fan Bracket | Attach fan and nozzle to structure | 2  | $2.30 | RPL 3D Print |
+| Plastic Nozzle | Direct airflow, used for testing but not final prototype | 1 | $5.65 | RPL 3D Print |
+| Balsa Wood Boards | Prototype structure | 4 | $4 | Lab |
+| Wood Glue | Hold together structure | 1 | $1 | Lab |
+
+**Total Price: $162.92**   
