@@ -61,6 +61,7 @@ image: /assets/images/SLF.png.jpg
 
 
 <a name="Prototype_1"></a>
+
 # YellowJackets ODP5: Functional Prototype I
 
 ## Design Documentation:
@@ -197,6 +198,7 @@ Our main motive with our design is being able to create a structure that allows 
 
 <a name="Client_Report"></a>
 
+# YellowJackets ODP6: Client Report
 
 **Yellowjackets: The SLFilter**  
 Aaron Grgurovic, Kevin Pezzulich, Magnus Carson, Jawad Mohamed, Johanna Stuard  
@@ -252,7 +254,7 @@ Structural integrity:
 - The second part of this test was lifting the structure off of the table by holding the top of the vertical panels. We lifted it 10 times. 
 
 | Fan pos: | Nozzle (Y/N) | Grapes min & max distance \[in\] | SLF min & max distance \[in\] | Separation? |
-| :---- | :---- | :---- | :---- | :---- |
+| :------- | :----- | :----- | :---- | :----- |
 | High, 25 deg up | Y | 2, 4 | 4, 10 | N  |
 | High, 25 deg up | N | 2, 5 | 12, 19 | **Y (7in)** |
 | Low, 25 deg up | Y | 2, 4 | 3, 10 | N  |
@@ -267,7 +269,7 @@ Structural integrity:
 **References and Bill of Materials**
 
 | Part | Purpose | Quantity | Price | Manufacturer  |
-| :---- | :---- | :---- | :---- | :---- |
+| :------ | :-------- | :---- | :---- | :--------- |
 | ¼” Acrylic Plate  | Cut to act as side panels, base, and loading tray | 1 | $52.81 | McMaster-Carr [https://www.mcmaster.com/8505K757/](https://www.mcmaster.com/8505K757/)  |
 | M4x55mm Bolt | Securely attach the nozzle to the fan and fan mount. | 4 | $11.25/pack | McMaster-Carr [https://www.mcmaster.com/91290A187/](https://www.mcmaster.com/91290A187/)  |
 | M4x25mm Bolt | Securely attach the loading tray and the fan mount to the side panels | 8 | Free from TDS | McMaster-Carr |
